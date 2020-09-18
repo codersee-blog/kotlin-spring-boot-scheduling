@@ -1,0 +1,3 @@
+my:
+  cron:
+    value: ${MY_CRON_VALUE}
